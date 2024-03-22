@@ -1,0 +1,17 @@
+﻿{
+    "name": "com.mustachegamestudiotv.spawnpoints",
+    "version": "1.3.0",
+    "displayName": "Spawn Points",
+    "description": "Sistema de gerenciamento do processo de criação de inimigos em grupos e ondas, a partir de uma posição do mundo do jogo 2D.",
+    "keywords": [
+        "spawn point",
+        "criação de inimigos",
+        "ondas de inimigos",
+        "grupos de inimigos",
+        "hordas de inimigos"
+    ],
+    "author": {
+        "name": "Mustache Game Studio TV",
+        "url": "https://www.youtube.com/c/mustachegamestudiotv"
+    }
+}
